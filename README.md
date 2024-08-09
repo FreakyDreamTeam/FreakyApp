@@ -1,2 +1,2 @@
 # FreakyApp
-repository in cui lasciare tuti i file di prova dell'app e schemi tattici
+nel main non ci va niente, ci sono due branch divise ora
